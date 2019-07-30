@@ -1,5 +1,6 @@
 # teleChatBot
-It's powerful Telegram python script to sending message, photo, and other files automatically. It's simply used by using function:
+<p>Requirement: installing request package</p>
+<p>It's powerful Telegram python script to sending message, photo, and other files automatically. It's simply used by using function:</p>
 <p>bot_sendText('Your message')</p>
 <p>bot_sendPhoto('Your Photo Path')</p>
 <p>bot_sendDocument('Your Document Path')</p>
